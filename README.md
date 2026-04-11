@@ -1,16 +1,16 @@
-## Hi there 👋
+# README
 
-<!--
-**Axhoo097/Axhoo097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+- Project 1: Description and link to project.
+- Project 2: Description and link to project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+
+- Certification 1: Details.
+- Certification 2: Details.
+
+## Achievements
+
+- Achievement 1: Description.
+- Achievement 2: Description.
