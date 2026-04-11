@@ -1,4 +1,5 @@
-# Hello! I'm Ashish Saini, an enthusiastic and driven undergraduate student pursuing a Bachelor of Technology (B.Tech) in Computer Science and Engineering. I have a strong passion for technology, with particular interests in Data Science, Data Analytics.
+# Hello!
+I'm Ashish Saini, an enthusiastic and driven undergraduate student pursuing a Bachelor of Technology (B.Tech) in Computer Science and Engineering. I have a strong passion for technology, with particular interests in Data Science, Data Analytics.
 
 Over the course of my academic journey, I've gained proficiency in several programming languages including Python, C, C++, and Java. I have also developed a solid foundation in Web Development, having built multiple projects using HTML, CSS, JavaScript, and modern frameworks like React.js and Tailwind CSS.
 
