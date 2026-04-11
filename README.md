@@ -23,3 +23,12 @@ Tools & Platforms: Git & GitHub, VS Code
 
 I am always eager to learn, collaborate, and innovate. My goal is to bridge the gap between data and decision-making, while also building robust and scalable web applications. I look forward to contributing to impactful projects and exploring opportunities that align with my skills and passion.
 
+🌐 Socials:
+ email
+
+💻 Tech Stack:
+C++ Java JavaScript Python HTML5 AWS MySQL Supabase MongoDB Firebase Adobe Canva NumPy Pandas Plotly Matplotlib Git GitHub
+
+📊 GitHub Stats:
+
+
