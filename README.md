@@ -17,8 +17,6 @@ Database Management: SQL, MySQL, DBMS Concepts
 
 Data Science & Analytics: Tableau, Matplotlib, NumPy, Pandas
 
-Machine Learning: Scikit-learn, Jupyter Notebooks (in progress)
-
 Tools & Platforms: Git & GitHub, VS Code
 
 I am always eager to learn, collaborate, and innovate. My goal is to bridge the gap between data and decision-making, while also building robust and scalable web applications. I look forward to contributing to impactful projects and exploring opportunities that align with my skills and passion.
