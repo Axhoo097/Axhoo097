@@ -253,15 +253,6 @@ Contributing as a core engineer across multiple collaborative software projects 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Axhoo097&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
