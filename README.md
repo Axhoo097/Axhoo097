@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=250&section=header&text=ASHISH%20SAINI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=250&section=header&text=ASHISH%20SAINI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlign=50&desc=Data%20Science%20%26%20AI%20Engineer&descAlign=82&descAlignY=62" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+Engineer;Full+Stack+%2B+Machine+Learning+Builder;Blockchain+%26+Web3+Enthusiast;Turning+Data+Into+Decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+Engineer;Full+Stack+Developer;ML+%2B+Web3+Builder" />
 
 <br/>
 
@@ -47,7 +47,7 @@ focus: Building intelligent, data-driven, production-grade systems
 philosophy: "Engineering is applied thinking — data makes it precise."
 ```
 
-I'm a **Computer Science (Data Science) undergraduate** at SRM Institute of Science and Technology, engineering end-to-end products that sit at the intersection of **software engineering, machine learning, and full-stack development**. My work spans **AI-powered mobile applications**, **inclusive employment platforms**, and **blockchain governance systems** — always built with a product-engineering mindset: ship something real, measure its impact, iterate.
+I'm a **Computer Science (Data Science) undergraduate** at SRM Institute of Science and Technology, engineering end-to-end products that sit at the intersection of **software engineering, machine learning, and data-driven product design**.
 
 I care about clean architecture, model performance that translates to real outcomes, and interfaces that people actually enjoy using.
 
@@ -126,9 +126,9 @@ AI-based Android application that scans product ingredients and performs chemica
 | **Performance** | Real-time ingredient scan-to-classification pipeline |
 | **Security** | Local data validation, structured MySQL persistence |
 | **Impact** | Enables consumers to assess chemical product safety instantly |
-| **Repository** | [github.com/Axhoo097/ChemWise](https://github.com/Axhoo097) |
+| **Repository** | [github.com/Axhoo097/ChemWise](https://github.com/Axhoo097/ChemWise) |
 
-Built collaboratively as an end-to-end mobile solution: the Android front end captures product data, a Python-based ML/NLP layer classifies ingredient risk, and results are translated into actionable safety recommendations for the end user.
+Built collaboratively as an end-to-end mobile solution: the Android front end captures product data, a Python-based ML/NLP layer classifies ingredient risk, and results are translated into actionable UI insights.
 
 </details>
 
@@ -145,7 +145,7 @@ A full-stack employment platform designed around ability-based candidate matchin
 | **Performance** | Optimized matching workflows via ML-backed recommendation logic |
 | **Security** | Firebase Auth, structured relational data via MySQL |
 | **Impact** | Improves accessibility and equity in employment matching |
-| **Repository** | [github.com/Axhoo097/EquiPath](https://github.com/Axhoo097) |
+| **Repository** | [github.com/Axhoo097/EquiPath](https://github.com/Axhoo097/EquiPath) |
 
 Architected the backend using Express.js and MySQL for structured data, integrated Firebase for real-time features, and layered in Python-based ML models to power ability-based candidate-role matching.
 
@@ -164,9 +164,9 @@ A blockchain-based governance framework enabling decentralized, transparent, and
 | **Performance** | Gas-conscious contract design for on-chain voting |
 | **Security** | Immutable smart contract logic, transparent transaction trail |
 | **Impact** | Enables trustless, community-driven organizational governance |
-| **Repository** | [github.com/Axhoo097/DAO-Governance](https://github.com/Axhoo097) |
+| **Repository** | [github.com/Axhoo097/DAO-Governance](https://github.com/Axhoo097/DAO-Governance) |
 
-Researched and implemented core DAO mechanics — proposal creation, token-weighted voting, and on-chain execution — using Solidity smart contracts, with Ethers.js powering the client-side Web3 interaction layer.
+Researched and implemented core DAO mechanics — proposal creation, token-weighted voting, and on-chain execution — using Solidity smart contracts, with Ethers.js powering the client-side Web3 interface.
 
 </details>
 
@@ -244,21 +244,20 @@ Contributing as a core engineer across multiple collaborative software projects 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Axhoo097&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com?user=Axhoo097&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Axhoo097&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=Axhoo097&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axhoo097&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axhoo097&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="100%"/>
 
 </div>
 
 ---
 
-
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Axhoo097&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Axhoo097&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
 
 </div>
 
@@ -268,7 +267,7 @@ Contributing as a core engineer across multiple collaborative software projects 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Axhoo097/Axhoo097/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Axhoo097/Axhoo097/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
