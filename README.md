@@ -38,8 +38,7 @@
 ---
 
 ## 🧠 About Me
-
-<img align="right" width="280" src="https://raw.githubusercontent.com/mayankfawkes/mayankfawkes/output/snake.svg" alt="snake" />
+<img align="right" width="280" src="https://raw.githubusercontent.com/Axhoo097/Axhoo097/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 ```yaml
 whoami: Ashish Saini
