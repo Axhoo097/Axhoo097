@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=250&section=header&text=ASHISH%20SAINI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlign=50&desc=Data%20Science%20%26%20AI%20Engineer&descAlign=82&descAlignY=62" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+Engineer;Full+Stack+Developer;ML+%2B+Web3+Builder" />
