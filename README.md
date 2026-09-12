@@ -46,9 +46,6 @@
 | 🧑‍💻 **Name** | Ashish Saini |
 | 🎓 **Education** | B.Tech CSE (Data Science), SRM IST Ghaziabad — 2023–2027 |
 | 📊 **CGPA** | 8.13 / 10 |
-| 📍 **Location** | Meerut, Uttar Pradesh, India |
-| 🗣️ **Languages** | English, Hindi, Japanese |
-| 📧 **Email** | [as7230@srmist.edu.in](mailto:as7230@srmist.edu.in) |
 | 💼 **Open To** | Software Engineer · Data Analyst · ML Engineer roles |
 
 </div>
@@ -290,16 +287,6 @@ Contributing as a core engineer across multiple collaborative software projects 
 <img src="https://streak-stats.demolab.com?user=Axhoo097&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axhoo097&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="100%"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Axhoo097&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
 
 </div>
 
