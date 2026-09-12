@@ -1,14 +1,15 @@
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=250&section=header&text=ASHISH%20SAINI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlign=50&desc=Data%20Science%20%26%20AI%20Engineer&descAlign=82&descAlignY=62" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+Engineer;Full+Stack+Developer;ML+%2B+Web3+Builder" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:A78BFA&height=260&section=header&text=ASHISH%20SAINI&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlign=50&desc=Data%20Science%20%26%20AI%20Engineer&descAlign=82&descAlignY=64&shadowColor=000000" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+Engineer;Full+Stack+%2B+ML+Builder;RAG+%2F+NLP+%2F+Applied+AI;Web3+%26+Cloud-Native+Systems" />
 
 <br/>
 
 ![Education](https://img.shields.io/badge/B.Tech-Computer%20Science%20(Data%20Science)-6D28D9?style=flat-square&logo=studyverse&logoColor=white)
 ![University](https://img.shields.io/badge/SRM%20IST-Ghaziabad-7C3AED?style=flat-square&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/📍-Meerut,%20Uttar%20Pradesh,%20India-8B5CF6?style=flat-square)
+![Grad](https://img.shields.io/badge/Graduating-2027-5B21B6?style=flat-square)
 
 <br/>
 
@@ -38,7 +39,6 @@
 ---
 
 ## 🧠 About Me
-<img align="right" width="280" src="https://raw.githubusercontent.com/Axhoo097/Axhoo097/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 ```yaml
 whoami: Ashish Saini
@@ -47,16 +47,33 @@ focus: Building intelligent, data-driven, production-grade systems
 philosophy: "Engineering is applied thinking — data makes it precise."
 ```
 
-I'm a **Computer Science (Data Science) undergraduate** at SRM Institute of Science and Technology, engineering end-to-end products that sit at the intersection of **software engineering, machine learning, and data-driven product design**.
+I'm a **Computer Science (Data Science) undergraduate** at SRM Institute of Science and Technology, engineering end-to-end products at the intersection of **software engineering, machine learning, and data-driven product design** — from RAG-powered AI assistants to full-stack platforms and on-chain governance systems.
 
-I care about clean architecture, model performance that translates to real outcomes, and interfaces that people actually enjoy using.
+I care about clean architecture, model performance that translates to real outcomes, and interfaces people actually enjoy using.
 
 **🎯 Open To:**
-
 - 💼 Software Engineering / Full Stack Development roles
 - 📊 Data Analyst & Machine Learning Engineer internships
 - ⛓️ Web3 / Blockchain Developer opportunities
 - 🤝 Open-source collaboration on AI-driven tools
+
+---
+
+## 🌐 3D Contribution Snapshot
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Axhoo097/Axhoo097/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+
+</div>
+
+> Rendered by an isometric contribution-graph GitHub Action — see **[Setup Notes](#-setup-notes-for-the-3d--live-widgets)** below to activate it on your account (runs once daily, no manual updates needed after that).
+
+<div align="center">
+
+<img src="https://metrics.lecoq.io/Axhoo097?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata" width="100%" alt="Isometric calendar"/>
+
+</div>
 
 ---
 
@@ -65,9 +82,10 @@ I care about clean architecture, model performance that translates to real outco
 **Languages**
 
 ![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
 ![Cpp](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java)
 ![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![Rust](https://skillicons.dev/icons?i=rust)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![SQL](https://skillicons.dev/icons?i=mysql)
 
@@ -76,22 +94,29 @@ I care about clean architecture, model performance that translates to real outco
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![React](https://skillicons.dev/icons?i=react)
-![XML](https://img.shields.io/badge/XML-6D28D9?style=flat-square&logo=xml&logoColor=white)
+![Vite](https://skillicons.dev/icons?i=vite)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![ThreeJS](https://skillicons.dev/icons?i=threejs)
 
 **Backend & Databases**
 
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 
 **Cloud, DevOps & Tooling**
 
 ![AWS](https://skillicons.dev/icons?i=aws)
+![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Solidity](https://skillicons.dev/icons?i=solidity)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
 
@@ -101,17 +126,37 @@ I care about clean architecture, model performance that translates to real outco
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Machine Learning** | ⭐⭐⭐⭐☆ | Supervised/unsupervised models, risk classification, recommendation engines |
-| **Natural Language Processing** | ⭐⭐⭐⭐☆ | NPTEL-certified; text classification & ingredient-risk analysis pipelines |
+| **Machine Learning** | ⭐⭐⭐⭐☆ | Supervised/unsupervised models, anomaly detection, risk classification, recommendation engines |
+| **Natural Language Processing** | ⭐⭐⭐⭐☆ | NPTEL-certified; RAG pipelines, text classification, ingredient-risk analysis |
+| **Generative AI / RAG** | ⭐⭐⭐⭐☆ | IBM watsonx/Granite-powered retrieval-augmented AI assistants |
 | **Data Analysis** | ⭐⭐⭐⭐⭐ | Pandas, NumPy, Scikit-learn — IBM certified |
 | **Data Visualization** | ⭐⭐⭐⭐☆ | Power BI, Matplotlib, Excel-based analytics dashboards |
-| **Applied AI Product Design** | ⭐⭐⭐⭐☆ | Deploying ML/NLP into mobile & web-based product experiences |
+| **Applied AI Product Design** | ⭐⭐⭐⭐☆ | Deploying ML/NLP into mobile, web, and platform-scale experiences |
 
 </div>
 
 ---
 
 ## 🚀 Featured Projects
+
+<details open>
+<summary><b>🛰️ AstroMind AI — Space Exploration & Anomaly Intelligence Platform</b></summary>
+<br/>
+
+Full-stack platform built for the **IBM AI Builders Challenge**, combining satellite telemetry monitoring, ML-based anomaly detection, and a RAG-powered AI assistant grounded in IBM watsonx/Granite.
+
+| | |
+|---|---|
+| **Stack** | FastAPI, async SQLAlchemy 2.0, PostgreSQL, Chroma, IBM Granite/watsonx, React, Vite, TanStack Query, Tailwind CSS |
+| **Scale** | 15-phase build with 17 architecture documents and a 6-table UUID-keyed schema |
+| **Performance** | Backend complete with 60/60 tests passing |
+| **Intelligence** | Anomaly detection with persisted confidence scoring, NASA DONKI space-weather integration, ML-driven recommendation engine |
+| **Deployment** | Render (API) + Vercel (frontend) |
+| **Repository** | *link coming soon* |
+
+Architected end-to-end: telemetry ingestion, anomaly-detection models, a RAG-backed chat assistant with persisted chat history, and space-weather-aware recommendations — all behind an async, test-covered FastAPI backend.
+
+</details>
 
 <details>
 <summary><b>🧪 ChemWise — AI Product Safety Scanner</b></summary>
@@ -124,11 +169,8 @@ AI-based Android application that scans product ingredients and performs chemica
 | **Stack** | Java / Kotlin, XML, Python, ML/NLP, MySQL |
 | **Scale** | Collaborative multi-module Android application |
 | **Performance** | Real-time ingredient scan-to-classification pipeline |
-| **Security** | Local data validation, structured MySQL persistence |
 | **Impact** | Enables consumers to assess chemical product safety instantly |
 | **Repository** | [github.com/Axhoo097/ChemWise](https://github.com/Axhoo097/ChemWise) |
-
-Built collaboratively as an end-to-end mobile solution: the Android front end captures product data, a Python-based ML/NLP layer classifies ingredient risk, and results are translated into actionable UI insights.
 
 </details>
 
@@ -143,11 +185,8 @@ A full-stack employment platform designed around ability-based candidate matchin
 | **Stack** | Node.js, Express.js, MySQL, Python, Firebase |
 | **Scale** | Full-stack platform with real-time data sync |
 | **Performance** | Optimized matching workflows via ML-backed recommendation logic |
-| **Security** | Firebase Auth, structured relational data via MySQL |
 | **Impact** | Improves accessibility and equity in employment matching |
 | **Repository** | [github.com/Axhoo097/EquiPath](https://github.com/Axhoo097/EquiPath) |
-
-Architected the backend using Express.js and MySQL for structured data, integrated Firebase for real-time features, and layered in Python-based ML models to power ability-based candidate-role matching.
 
 </details>
 
@@ -162,11 +201,8 @@ A blockchain-based governance framework enabling decentralized, transparent, and
 | **Stack** | Solidity, Ethereum, Web3.js, Ethers.js, JavaScript |
 | **Scale** | Smart-contract governance layer on Ethereum-compatible chains |
 | **Performance** | Gas-conscious contract design for on-chain voting |
-| **Security** | Immutable smart contract logic, transparent transaction trail |
 | **Impact** | Enables trustless, community-driven organizational governance |
 | **Repository** | [github.com/Axhoo097/DAO-Governance](https://github.com/Axhoo097/DAO-Governance) |
-
-Researched and implemented core DAO mechanics — proposal creation, token-weighted voting, and on-chain execution — using Solidity smart contracts, with Ethers.js powering the client-side Web3 interface.
 
 </details>
 
@@ -175,23 +211,24 @@ Researched and implemented core DAO mechanics — proposal creation, token-weigh
 ## 💼 Experience
 
 **Software Engineer — Collaborative Product Development**
-*ChemWise · EquiPath · DAO Governance Systems*
+*AstroMind AI · ChemWise · EquiPath · DAO Governance Systems*
 `2024 — Present`
 
-Contributing as a core engineer across multiple collaborative software projects spanning mobile AI applications, full-stack web platforms, and blockchain governance systems.
-
+- Built a full-stack, RAG-powered space intelligence platform on FastAPI + IBM watsonx/Granite with a 15-phase, test-driven build process
 - Designed and implemented ML/NLP-driven risk classification and recommendation features for a consumer-facing Android application
 - Built backend services and data models for an inclusive employment-matching platform using Node.js and MySQL
 - Engineered smart-contract based decentralized governance logic using Solidity and Web3 tooling
 - Collaborated in agile, version-controlled team environments using Git/GitHub
 
-`Python` `Java/Kotlin` `Machine Learning` `Node.js` `Solidity` `MySQL` `Firebase`
+`Python` `FastAPI` `Java/Kotlin` `Machine Learning` `Node.js` `Solidity` `PostgreSQL` `Firebase`
 
 ---
 
 ## 🏆 Achievements
 
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Axhoo097&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="100%"/>
 
 | Recognition | Details |
 |---|---|
@@ -206,23 +243,18 @@ Contributing as a core engineer across multiple collaborative software projects 
 ## 📜 Certifications
 
 **AWS**
-
 ![AWS Cloud Practitioner](https://img.shields.io/badge/Cloud%20Practitioner%20Essentials-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 **IBM**
-
 ![IBM Data Analysis](https://img.shields.io/badge/Data%20Analysis%20with%20Python-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
 **NPTEL**
-
 ![NPTEL NLP](https://img.shields.io/badge/Natural%20Language%20Processing-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white)
 
 **Columbia University**
-
 ![Columbia ML](https://img.shields.io/badge/Machine%20Learning-6D28D9?style=for-the-badge&logo=coursera&logoColor=white)
 
 **Salesforce**
-
 ![Salesforce](https://img.shields.io/badge/Admin%20%26%20Developer%20Skills-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ---
@@ -282,7 +314,7 @@ Learning:
   - Deep Learning architectures for production ML
 
 Building:
-  - A fourth full-stack AI-powered product
+  - AstroMind AI — polishing docs, demo, and MCP server exposure
   - Expanded open-source contributions
 
 Exploring:
@@ -314,6 +346,58 @@ Open To:
 
 *"Code is the bridge between data and decisions."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:A78BFA&height=120&section=footer" width="100%"/>
 
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════════
+  🔧 SETUP NOTES FOR THE 3D / LIVE WIDGETS
+  (Delete this comment block once everything is wired up — it will
+   not render on your public profile page since it's an HTML comment.)
+
+  1. Profile views / streak / stats / trophies / activity graph / snake:
+     already live for username "Axhoo097" — no setup needed.
+
+  2. 3D isometric contribution calendar (metrics.lecoq.io block):
+     works instantly, no setup — it's a hosted image service.
+
+  3. 3D contribution GRAPH (profile-night-rainbow.svg) requires a
+     one-time GitHub Action in your special "Axhoo097/Axhoo097" repo:
+
+     a. Create .github/workflows/profile-3d.yml in that repo with:
+
+        name: GitHub-Profile-3D-Contrib
+        on:
+          schedule:
+            - cron: "0 18 * * *"
+          workflow_dispatch:
+        jobs:
+          build:
+            runs-on: ubuntu-latest
+            steps:
+              - uses: actions/checkout@v4
+                with:
+                  ref: output
+              - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+                env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                  USERNAME: Axhoo097
+              - name: Commit & Push
+                run: |
+                  git config user.name github-actions
+                  git config user.email github-actions@github.com
+                  git add -A .
+                  git commit -m "generate 3d contrib graph" || echo "nothing to commit"
+                  git push
+
+     b. Go to Actions tab → "GitHub-Profile-3D-Contrib" → Run workflow
+        once manually to generate the first SVG.
+     c. If your repo doesn't already have an "output" branch (used by
+        your snake-graph action), either create one first, or change
+        `ref: output` above to your default branch and update the
+        README image URL to match.
+     d. After the first run, the image at
+        raw.githubusercontent.com/Axhoo097/Axhoo097/output/profile-3d-contrib/profile-night-rainbow.svg
+        will render correctly. Other available styles: profile-green.svg,
+        profile-season-animate.svg, etc. — swap the filename to taste.
+═══════════════════════════════════════════════════════════════ -->
