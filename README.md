@@ -2,7 +2,7 @@
   
 <img src="./assets/banner-header.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+Engineer;Full+Stack+Developer;ML+%2B+Web3+Builder" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+Engineer;Full+Stack+Developer;ML" />
 
 <br/>
 
@@ -46,9 +46,6 @@
 | 🧑‍💻 **Name** | Ashish Saini |
 | 🎓 **Education** | B.Tech CSE (Data Science), SRM IST Ghaziabad — 2023–2027 |
 | 📊 **CGPA** | 8.13 / 10 |
-| 📍 **Location** | Meerut, Uttar Pradesh, India |
-| 🗣️ **Languages** | English, Hindi, Japanese |
-| 📧 **Email** | [as7230@srmist.edu.in](mailto:as7230@srmist.edu.in) |
 | 💼 **Open To** | Software Engineer · Data Analyst · ML Engineer roles |
 
 </div>
