@@ -1,8 +1,8 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=120&section=footer" width="100%"/>
+<img src="./assets/banner-header.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+Engineer;Software Developer;ML" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+Engineer;Full+Stack+Developer;ML+%2B+Web3+Builder" />
 
 <br/>
 
@@ -46,6 +46,9 @@
 | 🧑‍💻 **Name** | Ashish Saini |
 | 🎓 **Education** | B.Tech CSE (Data Science), SRM IST Ghaziabad — 2023–2027 |
 | 📊 **CGPA** | 8.13 / 10 |
+| 📍 **Location** | Meerut, Uttar Pradesh, India |
+| 🗣️ **Languages** | English, Hindi, Japanese |
+| 📧 **Email** | [as7230@srmist.edu.in](mailto:as7230@srmist.edu.in) |
 | 💼 **Open To** | Software Engineer · Data Analyst · ML Engineer roles |
 
 </div>
@@ -292,6 +295,16 @@ Contributing as a core engineer across multiple collaborative software projects 
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Axhoo097&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -343,6 +356,6 @@ Open To:
 
 *"Code is the bridge between data and decisions."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=120&section=footer" width="100%"/>
+<img src="./assets/banner-footer.svg" width="100%"/>
 
 </div>
