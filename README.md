@@ -1,403 +1,168 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6D28D9,50:8B5CF6,100:A78BFA&amp;height=260&amp;section=header&amp;text=ASHISH%20SAINI&amp;fontSize=62&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlign=50&amp;desc=Data%20Science%20%26%20AI%20Engineer&amp;descAlign=82&amp;descAlignY=64&amp;shadowColor=000000" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=3000&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Data+Science+%26+AI+Engineer;Full+Stack+%2B+ML+Builder;RAG+%2F+NLP+%2F+Applied+AI;Web3+%26+Cloud-Native+Systems" /> <br/>
+<div align="center">
 
-Show Image Show Image Show Image Show Image
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6D28D9,50:8B5CF6,100:A78BFA&amp;height=220&amp;section=header&amp;text=Ashish%20Saini&amp;fontSize=56&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlign=50&amp;desc=Data%20Science%20%26%20AI%20Engineer&amp;descAlign=82&amp;descAlignY=62" width="100%"/>
 
-<br/> <a href="https://github.com/Axhoo097" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&amp;color=5B21B6" /> </a> <a href="https://linkedin.com/in/ashish-saini" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;color=6D28D9" /> </a> <a href="mailto:as7230@srmist.edu.in" target="_blank"> <img src="https://img.shields.io/badge/Email-100000?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;color=7C3AED" /> </a> <a href="https://github.com/Axhoo097" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;color=8B5CF6" /> </a>
+### Data Science &amp; AI Engineer • Full Stack Developer • ML/NLP Builder
 
-<br/><br/>
-
-![Education](https://img.shields.io/badge/B.Tech-Computer%20Science%20(Data%20Science)-6D28D9?style=flat-square&logo=studyverse&logoColor=white)
-![University](https://img.shields.io/badge/SRM%20IST-Ghaziabad-7C3AED?style=flat-square&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/📍-Meerut,%20Uttar%20Pradesh,%20India-8B5CF6?style=flat-square)
-![Grad](https://img.shields.io/badge/Graduating-2027-5B21B6?style=flat-square)
-
-<br/>
-
-<a href="https://github.com/Axhoo097" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white&color=5B21B6" />
-</a>
-<a href="https://linkedin.com/in/ashish-saini" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white&color=6D28D9" />
-</a>
-<a href="mailto:as7230@srmist.edu.in" target="_blank">
-  <img src="https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=gmail&logoColor=white&color=7C3AED" />
-</a>
-<a href="https://github.com/Axhoo097" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6" />
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Axhoo097&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Axhoo097?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&logo=github)
-![Stars](https://img.shields.io/github/stars/Axhoo097?style=for-the-badge&color=6d28d9&labelColor=1a1a2e&logo=github)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)](https://github.com/Axhoo097)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/ashish-saini)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:as7230@srmist.edu.in)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Axhoo097)
 
 </div>
 
 <br/>
 
----
+## About Me
 
-## 🧠 About Me
+I'm a **Computer Science (Data Science) undergraduate** at SRM Institute of Science and Technology (Class of 2027, CGPA 8.13/10), building production-grade software at the intersection of **full-stack engineering, machine learning, and applied AI**.
 
-```yaml
-whoami: Ashish Saini
-role: Software Engineer & AI/ML Practitioner
-focus: Building intelligent, data-driven, production-grade systems
-philosophy: "Engineering is applied thinking — data makes it precise."
-```
+Recent work spans a RAG-powered space intelligence platform (IBM AI Builders Challenge), an AI ingredient-safety scanner, an ML-driven inclusive hiring platform, and an on-chain DAO governance system.
 
-I'm a **Computer Science (Data Science) undergraduate** at SRM Institute of Science and Technology, engineering end-to-end products at the intersection of **software engineering, machine learning, and data-driven product design** — from RAG-powered AI assistants to full-stack platforms and on-chain governance systems.
+**Currently open to:**
+- Software Engineer / Full Stack Developer roles
+- Data Analyst &amp; Machine Learning Engineer internships
+- Web3 / Blockchain Developer opportunities
 
-I care about clean architecture, model performance that translates to real outcomes, and interfaces people actually enjoy using.
+<br/>
 
-**🎯 Open To:**
-- 💼 Software Engineering / Full Stack Development roles
-- 📊 Data Analyst & Machine Learning Engineer internships
-- ⛓️ Web3 / Blockchain Developer opportunities
-- 🤝 Open-source collaboration on AI-driven tools
-
----
-
-## 🌐 3D Contribution Snapshot
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Axhoo097/Axhoo097/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
-
-</div>
-
-> Rendered by an isometric contribution-graph GitHub Action — see **[Setup Notes](#-setup-notes-for-the-3d--live-widgets)** below to activate it on your account (runs once daily, no manual updates needed after that).
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/Axhoo097?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata" width="100%" alt="Isometric calendar"/>
-
-</div>
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
-![Python](https://skillicons.dev/icons?i=python)
-![Cpp](https://skillicons.dev/icons?i=cpp)
-![Java](https://skillicons.dev/icons?i=java)
-![Kotlin](https://skillicons.dev/icons?i=kotlin)
-![Rust](https://skillicons.dev/icons?i=rust)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![SQL](https://skillicons.dev/icons?i=mysql)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
 
 **Frontend**
 
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
-![Vite](https://skillicons.dev/icons?i=vite)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![ThreeJS](https://skillicons.dev/icons?i=threejs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
 
-**Backend & Databases**
+**Backend &amp; Databases**
 
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Firebase](https://skillicons.dev/icons?i=firebase)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black)
 
-**Cloud, DevOps & Tooling**
+**AI / ML &amp; Data**
 
-![AWS](https://skillicons.dev/icons?i=aws)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Solidity](https://skillicons.dev/icons?i=solidity)
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black)
+
+**Cloud, DevOps &amp; Web3**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&amp;logo=solidity&amp;logoColor=white)
+
+<br/>
+
+## Featured Projects
+
+### 🛰️ AstroMind AI — Space Intelligence Platform
+*Built for the IBM AI Builders Challenge*
+
+Full-stack platform combining satellite telemetry monitoring, ML-based anomaly detection, and a RAG-powered AI assistant grounded in IBM watsonx/Granite, with NASA space-weather data integration.
+
+**Stack:** FastAPI · async SQLAlchemy 2.0 · PostgreSQL · Chroma · IBM watsonx/Granite · React · Vite · TanStack Query · Tailwind CSS
+**Status:** Backend complete, 60/60 tests passing · deploying to Render + Vercel
 
 ---
 
-## 🤖 AI / ML Expertise
+### 🧪 ChemWise — AI Product Safety Scanner
+AI-based Android application that scans product ingredients and performs chemical safety analysis using ML/NLP-driven risk classification.
 
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Machine Learning** | ⭐⭐⭐⭐☆ | Supervised/unsupervised models, anomaly detection, risk classification, recommendation engines |
-| **Natural Language Processing** | ⭐⭐⭐⭐☆ | NPTEL-certified; RAG pipelines, text classification, ingredient-risk analysis |
-| **Generative AI / RAG** | ⭐⭐⭐⭐☆ | IBM watsonx/Granite-powered retrieval-augmented AI assistants |
-| **Data Analysis** | ⭐⭐⭐⭐⭐ | Pandas, NumPy, Scikit-learn — IBM certified |
-| **Data Visualization** | ⭐⭐⭐⭐☆ | Power BI, Matplotlib, Excel-based analytics dashboards |
-| **Applied AI Product Design** | ⭐⭐⭐⭐☆ | Deploying ML/NLP into mobile, web, and platform-scale experiences |
-
-</div>
+**Stack:** Java/Kotlin · XML · Python · ML/NLP · MySQL
+🔗 [github.com/Axhoo097/ChemWise](https://github.com/Axhoo097/ChemWise)
 
 ---
 
-## 🚀 Featured Projects
+### 🌐 EquiPath — Intelligent Inclusive Career Ecosystem
+Full-stack employment platform built around ability-based candidate matching, using ML-driven recommendation workflows to connect underrepresented job seekers with inclusive opportunities.
 
-<details open>
-<summary><b>🛰️ AstroMind AI — Space Exploration & Anomaly Intelligence Platform</b></summary>
-<br/>
-
-Full-stack platform built for the **IBM AI Builders Challenge**, combining satellite telemetry monitoring, ML-based anomaly detection, and a RAG-powered AI assistant grounded in IBM watsonx/Granite.
-
-| | |
-|---|---|
-| **Stack** | FastAPI, async SQLAlchemy 2.0, PostgreSQL, Chroma, IBM Granite/watsonx, React, Vite, TanStack Query, Tailwind CSS |
-| **Scale** | 15-phase build with 17 architecture documents and a 6-table UUID-keyed schema |
-| **Performance** | Backend complete with 60/60 tests passing |
-| **Intelligence** | Anomaly detection with persisted confidence scoring, NASA DONKI space-weather integration, ML-driven recommendation engine |
-| **Deployment** | Render (API) + Vercel (frontend) |
-| **Repository** | *link coming soon* |
-
-Architected end-to-end: telemetry ingestion, anomaly-detection models, a RAG-backed chat assistant with persisted chat history, and space-weather-aware recommendations — all behind an async, test-covered FastAPI backend.
-
-</details>
-
-<details>
-<summary><b>🧪 ChemWise — AI Product Safety Scanner</b></summary>
-<br/>
-
-AI-based Android application that scans product ingredients and performs chemical safety analysis, combining computer-assisted scanning with ML/NLP-driven risk classification.
-
-| | |
-|---|---|
-| **Stack** | Java / Kotlin, XML, Python, ML/NLP, MySQL |
-| **Scale** | Collaborative multi-module Android application |
-| **Performance** | Real-time ingredient scan-to-classification pipeline |
-| **Impact** | Enables consumers to assess chemical product safety instantly |
-| **Repository** | [github.com/Axhoo097/ChemWise](https://github.com/Axhoo097/ChemWise) |
-
-</details>
-
-<details>
-<summary><b>🌐 EquiPath — Intelligent Inclusive Career Ecosystem</b></summary>
-<br/>
-
-A full-stack employment platform designed around ability-based candidate matching, using ML-driven recommendation workflows to connect underrepresented job seekers with inclusive opportunities.
-
-| | |
-|---|---|
-| **Stack** | Node.js, Express.js, MySQL, Python, Firebase |
-| **Scale** | Full-stack platform with real-time data sync |
-| **Performance** | Optimized matching workflows via ML-backed recommendation logic |
-| **Impact** | Improves accessibility and equity in employment matching |
-| **Repository** | [github.com/Axhoo097/EquiPath](https://github.com/Axhoo097/EquiPath) |
-
-</details>
-
-<details>
-<summary><b>⛓️ Decentralized Autonomous Organization (DAO) — Governance System</b></summary>
-<br/>
-
-A blockchain-based governance framework enabling decentralized, transparent, and tamper-proof decision-making through smart contracts.
-
-| | |
-|---|---|
-| **Stack** | Solidity, Ethereum, Web3.js, Ethers.js, JavaScript |
-| **Scale** | Smart-contract governance layer on Ethereum-compatible chains |
-| **Performance** | Gas-conscious contract design for on-chain voting |
-| **Impact** | Enables trustless, community-driven organizational governance |
-| **Repository** | [github.com/Axhoo097/DAO-Governance](https://github.com/Axhoo097/DAO-Governance) |
-
-</details>
+**Stack:** Node.js · Express.js · MySQL · Python · Firebase
+🔗 [github.com/Axhoo097/EquiPath](https://github.com/Axhoo097/EquiPath)
 
 ---
 
-## 💼 Experience
+### ⛓️ DAO Governance System
+Blockchain-based governance framework enabling decentralized, transparent, tamper-proof decision-making through smart contracts — proposal creation, token-weighted voting, and on-chain execution.
+
+**Stack:** Solidity · Ethereum · Web3.js · Ethers.js · JavaScript
+🔗 [github.com/Axhoo097/DAO-Governance](https://github.com/Axhoo097/DAO-Governance)
+
+<br/>
+
+## Experience
 
 **Software Engineer — Collaborative Product Development**
-*AstroMind AI · ChemWise · EquiPath · DAO Governance Systems*
-`2024 — Present`
+AstroMind AI · ChemWise · EquiPath · DAO Governance Systems · 2024 — Present
 
-- Built a full-stack, RAG-powered space intelligence platform on FastAPI + IBM watsonx/Granite with a 15-phase, test-driven build process
+- Built a full-stack, RAG-powered space intelligence platform on FastAPI + IBM watsonx/Granite through a structured 15-phase, test-driven build process
 - Designed and implemented ML/NLP-driven risk classification and recommendation features for a consumer-facing Android application
 - Built backend services and data models for an inclusive employment-matching platform using Node.js and MySQL
-- Engineered smart-contract based decentralized governance logic using Solidity and Web3 tooling
+- Engineered smart-contract-based decentralized governance logic using Solidity and Web3 tooling
 - Collaborated in agile, version-controlled team environments using Git/GitHub
 
-`Python` `FastAPI` `Java/Kotlin` `Machine Learning` `Node.js` `Solidity` `PostgreSQL` `Firebase`
+<br/>
 
----
+## Certifications
 
-## 🏆 Achievements
+![IBM](https://img.shields.io/badge/IBM-Data%20Analysis%20with%20Python-052FAD?style=flat-square&amp;logo=ibm&amp;logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-232F3E?style=flat-square&amp;logo=amazonaws&amp;logoColor=white)
+![Columbia](https://img.shields.io/badge/Columbia%20University-Machine%20Learning-6D28D9?style=flat-square&amp;logo=coursera&amp;logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL-Natural%20Language%20Processing-8B5CF6?style=flat-square)
+![Salesforce](https://img.shields.io/badge/Salesforce-Admin%20%26%20Developer%20Skills-00A1E0?style=flat-square&amp;logo=salesforce&amp;logoColor=white)
 
-<div align="center">
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Axhoo097&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="100%"/>
-
-| Recognition | Details |
-|---|---|
-| 🎓 CGPA 8.13/10 | B.Tech Computer Science (Data Science), SRM IST |
-| 📜 5x Certified Practitioner | IBM, AWS, Columbia University, NPTEL, Salesforce |
-| 🧩 Multi-Domain Builder | Delivered projects across AI/ML, full-stack, and Web3 |
-
-</div>
-
----
-
-## 📜 Certifications
-
-**AWS**
-![AWS Cloud Practitioner](https://img.shields.io/badge/Cloud%20Practitioner%20Essentials-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**IBM**
-![IBM Data Analysis](https://img.shields.io/badge/Data%20Analysis%20with%20Python-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-
-**NPTEL**
-![NPTEL NLP](https://img.shields.io/badge/Natural%20Language%20Processing-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-**Columbia University**
-![Columbia ML](https://img.shields.io/badge/Machine%20Learning-6D28D9?style=for-the-badge&logo=coursera&logoColor=white)
-
-**Salesforce**
-![Salesforce](https://img.shields.io/badge/Admin%20%26%20Developer%20Skills-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-
----
-
-## 💻 Coding Profiles
+## GitHub Analytics
 
 <div align="center">
 
-<a href="https://leetcode.com/Axhoo097" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
-<a href="https://www.geeksforgeeks.org/user/Axhoo097" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/Axhoo097" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/Axhoo097" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Axhoo097&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;icon_color=8B5CF6&amp;text_color=C9D1D9&amp;count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axhoo097&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9" width="49%"/>
+
+<img src="https://streak-stats.demolab.com?user=Axhoo097&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=8B5CF6&amp;fire=A78BFA&amp;currStreakLabel=A78BFA" width="70%"/>
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Analytics
+## Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116)](https://leetcode.com/Axhoo097)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=white)](https://www.geeksforgeeks.org/user/Axhoo097)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=white)](https://www.hackerrank.com/Axhoo097)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&amp;logo=codechef&amp;logoColor=white)](https://www.codechef.com/users/Axhoo097)
+
+<br/>
+
+## Get In Touch
+
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:as7230@srmist.edu.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/ashish-saini)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Axhoo097)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Axhoo097&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=Axhoo097&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axhoo097&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="100%"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Axhoo097&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6D28D9,50:8B5CF6,100:A78BFA&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Axhoo097/Axhoo097/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-## 🔭 Current Focus
-
-```yaml
-Learning:
-  - Advanced Data Structures & Algorithms
-  - Spring Boot / FastAPI for scalable backend systems
-  - Deep Learning architectures for production ML
-
-Building:
-  - AstroMind AI — polishing docs, demo, and MCP server exposure
-  - Expanded open-source contributions
-
-Exploring:
-  - Web3 / Smart Contract security
-  - Cloud-native ML deployment (AWS)
-
-Open To:
-  - Software Engineer / Data Analyst roles
-  - ML Engineer internships
-  - Web3 & Blockchain collaborations
-```
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="mailto:as7230@srmist.edu.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/ashish-saini"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Axhoo097"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/Axhoo097"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-</div>
-
----
-
-<div align="center">
-
-*"Code is the bridge between data and decisions."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:A78BFA&height=120&section=footer" width="100%"/>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════
-  🔧 SETUP NOTES FOR THE 3D / LIVE WIDGETS
-  (Delete this comment block once everything is wired up — it will
-   not render on your public profile page since it's an HTML comment.)
-
-  1. Profile views / streak / stats / trophies / activity graph / snake:
-     already live for username "Axhoo097" — no setup needed.
-
-  2. 3D isometric contribution calendar (metrics.lecoq.io block):
-     works instantly, no setup — it's a hosted image service.
-
-  3. 3D contribution GRAPH (profile-night-rainbow.svg) requires a
-     one-time GitHub Action in your special "Axhoo097/Axhoo097" repo:
-
-     a. Create .github/workflows/profile-3d.yml in that repo with:
-
-        name: GitHub-Profile-3D-Contrib
-        on:
-          schedule:
-            - cron: "0 18 * * *"
-          workflow_dispatch:
-        jobs:
-          build:
-            runs-on: ubuntu-latest
-            steps:
-              - uses: actions/checkout@v4
-                with:
-                  ref: output
-              - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-                env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-                  USERNAME: Axhoo097
-              - name: Commit & Push
-                run: |
-                  git config user.name github-actions
-                  git config user.email github-actions@github.com
-                  git add -A .
-                  git commit -m "generate 3d contrib graph" || echo "nothing to commit"
-                  git push
-
-     b. Go to Actions tab → "GitHub-Profile-3D-Contrib" → Run workflow
-        once manually to generate the first SVG.
-     c. If your repo doesn't already have an "output" branch (used by
-        your snake-graph action), either create one first, or change
-        `ref: output` above to your default branch and update the
-        README image URL to match.
-     d. After the first run, the image at
-        raw.githubusercontent.com/Axhoo097/Axhoo097/output/profile-3d-contrib/profile-night-rainbow.svg
-        will render correctly. Other available styles: profile-green.svg,
-        profile-season-animate.svg, etc. — swap the filename to taste.
-═══════════════════════════════════════════════════════════════ -->
