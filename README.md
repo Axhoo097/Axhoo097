@@ -1,4 +1,10 @@
-https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:A78BFA&height=220&section=header&text=Ashish%20Saini&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlign=50&desc=Data%20Science%20%26%20AI%20Engineer&descAlign=82&descAlignY=62
+<div align="center">
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6D28D9,50:8B5CF6,100:A78BFA&amp;height=100&amp;section=footer" width="100%"/>
+
+</div>
 
 ### Data Science &amp; AI Engineer • Full Stack Developer • ML/NLP Builder
 
