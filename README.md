@@ -1,10 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:A78BFA&height=260&section=header&text=ASHISH%20SAINI&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlign=50&desc=Data%20Science%20%26%20AI%20Engineer&descAlign=82&descAlignY=64&shadowColor=000000" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+Engineer;Full+Stack+%2B+ML+Builder;RAG+%2F+NLP+%2F+Applied+AI;Web3+%26+Cloud-Native+Systems" />
-
-<br/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:A78BFA&height=260&section=header&text=ASHISH%20SAINI&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlign=50&desc=Data%20Science%20%26%20AI%20Engineer&descAlign=82&descAlignY=64&shadowColor=000000" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+Engineer;Full+Stack+%2B+ML+Builder;RAG+%2F+NLP+%2F+Applied+AI;Web3+%26+Cloud-Native+Systems" /> <br/>
 
 ![Education](https://img.shields.io/badge/B.Tech-Computer%20Science%20(Data%20Science)-6D28D9?style=flat-square&logo=studyverse&logoColor=white)
 ![University](https://img.shields.io/badge/SRM%20IST-Ghaziabad-7C3AED?style=flat-square&logo=googlescholar&logoColor=white)
