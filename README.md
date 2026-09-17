@@ -1,7 +1,5 @@
 <div align="center">
   
-<img src="./assets/banner-header.svg" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+Engineer;Full+Stack+Developer;ML" />
 
 <br/>
