@@ -351,6 +351,4 @@ Open To:
 
 *"Code is the bridge between data and decisions."*
 
-<img src="./assets/banner-footer.svg" width="100%"/>
-
 </div>
