@@ -80,7 +80,6 @@ I care about clean architecture, model performance that translates to real outco
 ![Python](https://skillicons.dev/icons?i=python)
 ![Cpp](https://skillicons.dev/icons?i=cpp)
 ![Java](https://skillicons.dev/icons?i=java)
-![Kotlin](https://skillicons.dev/icons?i=kotlin)
 ![Rust](https://skillicons.dev/icons?i=rust)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![SQL](https://skillicons.dev/icons?i=mysql)
@@ -100,7 +99,7 @@ I care about clean architecture, model performance that translates to real outco
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Postgres](https://skillicons.dev/icons?i=postgres)
-![Firebase](https://skillicons.dev/icons?i=firebase)
+
 
 **Cloud, DevOps & Tooling**
 
@@ -109,7 +108,7 @@ I care about clean architecture, model performance that translates to real outco
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
-![Solidity](https://skillicons.dev/icons?i=solidity)
+
 
 ---
 
